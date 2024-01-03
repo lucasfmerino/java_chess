@@ -30,5 +30,5 @@ public class ChessMatch {
         board.placePiece(new King(board, Color.WHITE), new Position(7, 4));
         
     }
-    
+
 }
